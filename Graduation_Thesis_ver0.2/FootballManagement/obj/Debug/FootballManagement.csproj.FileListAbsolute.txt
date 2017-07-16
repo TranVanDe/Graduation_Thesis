@@ -1,0 +1,15 @@
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\bin\Debug\FootballManagement.exe.config
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\bin\Debug\FootballManagement.exe
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\bin\Debug\FootballManagement.pdb
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.csprojResolveAssemblyReference.cache
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.Properties.Resources.resources
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.csproj.GenerateResource.Cache
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.exe
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.pdb
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmLogIn.resources
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmMain.resources
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmUser.resources
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmUserAdd.resources
+F:\IT\Code\C#\Graduatuion_Thesis\Graduation_Thesis_ver0.2\FootballManagement\bin\Debug\FootballManagement.exe.config
+F:\IT\Code\C#\Graduatuion_Thesis\Graduation_Thesis_ver0.2\FootballManagement\obj\Debug\FootballManagement.exe
+F:\IT\Code\C#\Graduatuion_Thesis\Graduation_Thesis_ver0.2\FootballManagement\obj\Debug\FootballManagement.pdb
