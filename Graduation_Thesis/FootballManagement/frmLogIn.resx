@@ -117,62 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pencil-edit-button" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pencil-edit-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="plus-black-symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\plus-black-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Code" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Code.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="refresh-button" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\refresh-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="football-chalice-shaped-trophy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\football-chalice-shaped-trophy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="football-fans-group" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\football-fans-group.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="minus-symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\minus-symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="football-leader-man (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\football-leader-man (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="plus-black-symbol (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\plus-black-symbol (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="magnifier" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\magnifier.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="calendar-with-a-clock-time-tools" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\calendar-with-a-clock-time-tools.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="soccer-ball" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\soccer-ball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="plus-black-symbol (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\plus-black-symbol (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="statistical-chart" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\statistical-chart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="football-leader-man" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\football-leader-man.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="football-player-attempting-to-kick-ball" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\football-player-attempting-to-kick-ball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back-arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="back-arrow1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back-arrow1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnLogIn.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAZZJREFUOE9j
+        oAkQcFfXkW32qFGeH7EYhGVbPGsEPDR0oNK4AYeaqKDamviVemcK/wHxfzT8T31twkpODTFBqHJUANKs
+        fSDrChaNKFj7YPYVrIaorY4D2YxVEzoGuQSqDQL4XdV0gBLYnA3H5bcW/bc4VwHj/0MJE9lG9xpkxei4
+        997G/28+fPx/4Pnl//pQMVDAQrUzMCjPCVsMUwyyBckmuOYX7979zzw5+b/u6QKwOCh2oNqBBswNWwES
+        tARqPPTi6v+DL66ADUHWnHF80n/dE/lwg1UWRKyAamdgUOjznwUSdDpd8//i87tgTdfePELSPBFFMwgr
+        TAyYBdXOwCCWap4GchoIOxwohxsC0pyORTNInXi6ZRpUOwMDu5KQEDB+P8EkQYacfXoLq2YQBqnlUBER
+        gmqHAMlCuwKdY3lwG/T2ZmHVDFIjWWxfANWGCuTavCYATYeHNDIGiYHk5Dq8J0CVYwcikYYhaqvirmrt
+        yQBqyAJjEBuYUq+KRBuFQJURBtzGMuoC3pp+IMxtIqMOFUYDDAwAyLqG7Cjnv1gAAAAASUVORK5CYII=
+</value>
   </data>
 </root>

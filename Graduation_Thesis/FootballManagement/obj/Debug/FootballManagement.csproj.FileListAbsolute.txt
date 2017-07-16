@@ -8,3 +8,5 @@ F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.
 F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.pdb
 F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmLogIn.resources
 F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmMain.resources
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmUser.resources
+F:\IT\Code\C#\Graduation_Thesis\FootballManagement\obj\Debug\FootballManagement.frmUserAdd.resources
